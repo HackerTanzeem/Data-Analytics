@@ -1,0 +1,28 @@
+1. 
+import numpy
+arr=[10,12,15,18,20,22,25,30]
+x=numpy.percentile(arr,75)
+print(x)
+
+2.
+import numpy
+q3=30 
+q1=20
+print(q3-q1)
+
+3.
+import numpy
+arr=[18,20,22,24,26,28]
+x=numpy.median(arr,axis=0)
+print(x)
+
+4.
+import numpy
+arr=[5,10,15,20,25]
+x=numpy.percentile(arr,75)
+print(x)
+
+5.
+min= 10
+max= 30
+print(max-min)
